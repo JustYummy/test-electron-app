@@ -1,7 +1,5 @@
 # test-electron-app
 
-# test-electron-app
-
 ### Use `electron`@11.2.0, and `@journeyapps/sqlcipher`5.0.0
 
 In the `background.ts`, I pasted the testing code and run
